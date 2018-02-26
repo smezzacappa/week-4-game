@@ -1,0 +1,19 @@
+.container-fluid{
+    background-image: ("gems-background.jpg");
+}
+.header{
+    font-size: 50px;
+
+    
+}
+.box{
+    margin: 5px;
+}
+
+.row{
+    margin: 10px
+}
+
+p{
+    font-size: 20px;
+}
